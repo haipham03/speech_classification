@@ -1,0 +1,750 @@
+name,path,emotion
+648f044cbd5f011dbabbb63b,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f044cbd5f011dbabbb63b.wav,bật thiết bị
+6485f6018503514097e50e25,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485f6018503514097e50e25.wav,kiểm tra tình trạng thiết bị
+64a19bae883d154362f24401,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64a19bae883d154362f24401.wav,hủy hoạt cảnh
+648dc7e14c84025c573e0f37,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648dc7e14c84025c573e0f37.wav,giảm độ sáng của thiết bị
+64871fb01ae676627bb64f6c,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64871fb01ae676627bb64f6c.wav,kiểm tra tình trạng thiết bị
+64b2b0b646b935027fb6f759,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64b2b0b646b935027fb6f759.wav,hủy hoạt cảnh
+648b275660832589d9e93f70,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b275660832589d9e93f70.wav,mở thiết bị
+648c8b13f73a5730ce7d6027,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c8b13f73a5730ce7d6027.wav,kiểm tra tình trạng thiết bị
+648c9a2ef73a575d1d7d7a63,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c9a2ef73a575d1d7d7a63.wav,tắt thiết bị
+6485dfd18503510a3ce4eb2f,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485dfd18503510a3ce4eb2f.wav,giảm độ sáng của thiết bị
+648d2b18ca834b183215981c,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648d2b18ca834b183215981c.wav,giảm độ sáng của thiết bị
+648b3385608325838be95dd0,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b3385608325838be95dd0.wav,tăng độ sáng của thiết bị
+648737eb1ae67628c6b67b72,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648737eb1ae67628c6b67b72.wav,kiểm tra tình trạng thiết bị
+64847b0319e040c3885e25f9,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64847b0319e040c3885e25f9.wav,bật thiết bị
+648c7d0ef73a5720f77d2bc6,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c7d0ef73a5720f77d2bc6.wav,tắt thiết bị
+6485f216850351e0b3e50b49,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485f216850351e0b3e50b49.wav,bật thiết bị
+648de1244c8402b30b3e3d29,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648de1244c8402b30b3e3d29.wav,đóng thiết bị
+6485ce5c850351a086e4d198,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485ce5c850351a086e4d198.wav,mở thiết bị
+648b343460832503cae95efd,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b343460832503cae95efd.wav,bật thiết bị
+648b41b8608325d89ee97fcc,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b41b8608325d89ee97fcc.wav,bật thiết bị
+648c78a7f73a5768837d1db8,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c78a7f73a5768837d1db8.wav,bật thiết bị
+648b1eb26083252fb3e927bf,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b1eb26083252fb3e927bf.wav,kiểm tra tình trạng thiết bị
+648742f61ae6767f10b68b09,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648742f61ae6767f10b68b09.wav,kiểm tra tình trạng thiết bị
+64849f2c19e040017a5e5ac4,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64849f2c19e040017a5e5ac4.wav,đóng thiết bị
+648c7f39f73a5713bb7d343e,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c7f39f73a5713bb7d343e.wav,kiểm tra tình trạng thiết bị
+6485be7b8503515bc2e4be69,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485be7b8503515bc2e4be69.wav,bật thiết bị
+6485ce57850351585de4d16f,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485ce57850351585de4d16f.wav,tăng độ sáng của thiết bị
+648c957ff73a571bc97d7755,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c957ff73a571bc97d7755.wav,giảm mức độ của thiết bị
+648c7ab1f73a57cba77d2439,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c7ab1f73a57cba77d2439.wav,kiểm tra tình trạng thiết bị
+6483482dd9f56983304204e2,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6483482dd9f56983304204e2.wav,tắt thiết bị
+648dee514c840263413e509f,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648dee514c840263413e509f.wav,giảm mức độ của thiết bị
+648c891cf73a57da787d5996,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c891cf73a57da787d5996.wav,kiểm tra tình trạng thiết bị
+648b44086083250756e98414,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b44086083250756e98414.wav,đóng thiết bị
+64888b1e629cf71db523aa4d,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64888b1e629cf71db523aa4d.wav,đóng thiết bị
+6489c7d00007500b1492364d,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6489c7d00007500b1492364d.wav,tăng độ sáng của thiết bị
+6485f482850351be16e50d64,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485f482850351be16e50d64.wav,đóng thiết bị
+648dc4214c84025a4f3e07b8,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648dc4214c84025a4f3e07b8.wav,mở thiết bị
+64b2bd6246b93551e7b6fb1c,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64b2bd6246b93551e7b6fb1c.wav,kích hoạt cảnh
+648dd5bd4c84026d233e24df,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648dd5bd4c84026d233e24df.wav,bật thiết bị
+648f1f56bd5f01924ebbe44d,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f1f56bd5f01924ebbe44d.wav,giảm độ sáng của thiết bị
+648349e0d9f5693cef420675,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648349e0d9f5693cef420675.wav,tăng mức độ của thiết bị
+648b20d0608325679de92d17,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b20d0608325679de92d17.wav,tăng độ sáng của thiết bị
+648b26d8608325c7d3e93d70,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b26d8608325c7d3e93d70.wav,mở thiết bị
+6484747f19e040b06e5e2016,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6484747f19e040b06e5e2016.wav,giảm độ sáng của thiết bị
+648f071abd5f01bf14bbb9c5,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f071abd5f01bf14bbb9c5.wav,tăng độ sáng của thiết bị
+64887834629cf74235239343,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64887834629cf74235239343.wav,kiểm tra tình trạng thiết bị
+648f0ce1bd5f0158c8bbc193,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f0ce1bd5f0158c8bbc193.wav,tăng độ sáng của thiết bị
+6485bf198503510520e4bf14,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485bf198503510520e4bf14.wav,tăng độ sáng của thiết bị
+648c7fe9f73a57b16c7d36d8,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c7fe9f73a57b16c7d36d8.wav,giảm mức độ của thiết bị
+6485cd138503512cd4e4cfa3,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485cd138503512cd4e4cfa3.wav,kiểm tra tình trạng thiết bị
+648b1d29608325677ae9240f,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b1d29608325677ae9240f.wav,đóng thiết bị
+648b2bc9608325410ce94b05,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b2bc9608325410ce94b05.wav,kiểm tra tình trạng thiết bị
+648dc0914c84025e893e017d,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648dc0914c84025e893e017d.wav,bật thiết bị
+6490281ead543881245f0b66,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6490281ead543881245f0b66.wav,bật thiết bị
+648347bfd9f569634042049f,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648347bfd9f569634042049f.wav,mở thiết bị
+648c6f77f73a5706e07d09e5,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c6f77f73a5706e07d09e5.wav,bật thiết bị
+648b334d6083258619e95d53,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b334d6083258619e95d53.wav,tăng độ sáng của thiết bị
+648737d61ae67666ecb67b2a,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648737d61ae67666ecb67b2a.wav,tăng độ sáng của thiết bị
+64871d8e1ae6763a83b64c2e,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64871d8e1ae6763a83b64c2e.wav,giảm độ sáng của thiết bị
+648c9083f73a575d477d6ec6,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c9083f73a575d477d6ec6.wav,bật thiết bị
+648d88b3ca834b396715a03e,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648d88b3ca834b396715a03e.wav,đóng thiết bị
+648c7ae0f73a576bf07d2508,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c7ae0f73a576bf07d2508.wav,tắt thiết bị
+648b27236083257f11e93eac,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b27236083257f11e93eac.wav,tăng độ sáng của thiết bị
+648f1160bd5f01932cbbc973,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f1160bd5f01932cbbc973.wav,tắt thiết bị
+648c93d7f73a5707597d74c5,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c93d7f73a5707597d74c5.wav,bật thiết bị
+6485c5b2850351d5b1e4c5f1,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485c5b2850351d5b1e4c5f1.wav,tăng độ sáng của thiết bị
+648dde4c4c8402f83d3e3693,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648dde4c4c8402f83d3e3693.wav,đóng thiết bị
+648b263d608325129ee93c02,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b263d608325129ee93c02.wav,tắt thiết bị
+64874d211ae6769c09b69776,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64874d211ae6769c09b69776.wav,mở thiết bị
+648c7d98f73a5719b87d2dec,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c7d98f73a5719b87d2dec.wav,tắt thiết bị
+648db83b4c84020eca3df2c4,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648db83b4c84020eca3df2c4.wav,đóng thiết bị
+648f25d9bd5f0133b4bbefc4,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f25d9bd5f0133b4bbefc4.wav,mở thiết bị
+648b15d1608325be96e9169a,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b15d1608325be96e9169a.wav,đóng thiết bị
+648dd24e4c84023d3f3e1e28,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648dd24e4c84023d3f3e1e28.wav,mở thiết bị
+6484969819e040ecac5e4ff7,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6484969819e040ecac5e4ff7.wav,đóng thiết bị
+648adda8b7c444cca5394f1e,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648adda8b7c444cca5394f1e.wav,tăng độ sáng của thiết bị
+648b2fe2608325831de9556a,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b2fe2608325831de9556a.wav,đóng thiết bị
+64834adfd9f569b349420742,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64834adfd9f569b349420742.wav,kiểm tra tình trạng thiết bị
+648efd1cbd5f0164febbb319,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648efd1cbd5f0164febbb319.wav,tăng độ sáng của thiết bị
+648c8523f73a57983e7d4920,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c8523f73a57983e7d4920.wav,giảm độ sáng của thiết bị
+64a18c90883d1571ebf240ca,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64a18c90883d1571ebf240ca.wav,kích hoạt cảnh
+64887151629cf7aa48238c21,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64887151629cf7aa48238c21.wav,tăng mức độ của thiết bị
+6489cb2700075081ae923e53,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6489cb2700075081ae923e53.wav,đóng thiết bị
+6487307f1ae67630e8b66e18,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6487307f1ae67630e8b66e18.wav,giảm mức độ của thiết bị
+648b29c36083256d9de945ab,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b29c36083256d9de945ab.wav,bật thiết bị
+64849ac719e040480a5e5569,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64849ac719e040480a5e5569.wav,đóng thiết bị
+6485cc0e850351d25ee4ce25,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485cc0e850351d25ee4ce25.wav,mở thiết bị
+648f37d4bd5f0122acbc0745,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f37d4bd5f0122acbc0745.wav,kiểm tra tình trạng thiết bị
+648868a0629cf7924423851f,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648868a0629cf7924423851f.wav,kiểm tra tình trạng thiết bị
+6485dc4c850351d410e4e642,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485dc4c850351d410e4e642.wav,tắt thiết bị
+648b24586083250117e93674,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b24586083250117e93674.wav,kiểm tra tình trạng thiết bị
+648723951ae6768142b65648,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648723951ae6768142b65648.wav,tăng mức độ của thiết bị
+648f1963bd5f01e20cbbd8fb,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f1963bd5f01e20cbbd8fb.wav,bật thiết bị
+648c8681f73a574c7a7d4e16,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c8681f73a574c7a7d4e16.wav,mở thiết bị
+648dd54d4c84027b833e240c,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648dd54d4c84027b833e240c.wav,kiểm tra tình trạng thiết bị
+648728641ae676f5deb65ec8,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648728641ae676f5deb65ec8.wav,giảm độ sáng của thiết bị
+648dc0a34c8402df883e01ce,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648dc0a34c8402df883e01ce.wav,kiểm tra tình trạng thiết bị
+64834bbed9f569bcbc4207ff,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64834bbed9f569bcbc4207ff.wav,giảm độ sáng của thiết bị
+648b396b608325e373e96c52,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b396b608325e373e96c52.wav,bật thiết bị
+648c7a60f73a571e207d231b,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c7a60f73a571e207d231b.wav,kiểm tra tình trạng thiết bị
+64849a3d19e040c98c5e54e1,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64849a3d19e040c98c5e54e1.wav,giảm độ sáng của thiết bị
+648b2b586083258359e949c0,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b2b586083258359e949c0.wav,tăng mức độ của thiết bị
+648dc0ef4c8402edac3e027c,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648dc0ef4c8402edac3e027c.wav,bật thiết bị
+648c9160f73a5743bf7d70b7,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c9160f73a5743bf7d70b7.wav,kiểm tra tình trạng thiết bị
+6485cf20850351a67ce4d29f,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485cf20850351a67ce4d29f.wav,mở thiết bị
+648720a81ae6766b2cb650e7,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648720a81ae6766b2cb650e7.wav,tăng độ sáng của thiết bị
+64b2b06146b935ab86b6f737,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64b2b06146b935ab86b6f737.wav,kích hoạt cảnh
+648747251ae6767f62b69062,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648747251ae6767f62b69062.wav,tăng nhiệt độ của thiết bị
+6489c9360007502a499239a2,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6489c9360007502a499239a2.wav,tăng độ sáng của thiết bị
+648c8afff73a5740ac7d5fc3,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c8afff73a5740ac7d5fc3.wav,giảm mức độ của thiết bị
+648dc5ed4c8402c3423e0b81,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648dc5ed4c8402c3423e0b81.wav,đóng thiết bị
+64918a47c5f526678dfdc1c8,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64918a47c5f526678dfdc1c8.wav,đóng thiết bị
+64b3f8ecd6657a31fd8cddc5,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64b3f8ecd6657a31fd8cddc5.wav,hủy hoạt cảnh
+648dba964c84025fae3df6a7,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648dba964c84025fae3df6a7.wav,kiểm tra tình trạng thiết bị
+648f0e96bd5f0117a9bbc460,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f0e96bd5f0117a9bbc460.wav,tăng độ sáng của thiết bị
+648b2b016083255a1ce94915,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b2b016083255a1ce94915.wav,mở thiết bị
+648d3743ca834b35a5159cdd,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648d3743ca834b35a5159cdd.wav,tăng mức độ của thiết bị
+648dc1b24c840211063e0392,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648dc1b24c840211063e0392.wav,đóng thiết bị
+64872f8f1ae676f437b66c04,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64872f8f1ae676f437b66c04.wav,bật thiết bị
+648c7a0bf73a57695b7d21be,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c7a0bf73a57695b7d21be.wav,giảm độ sáng của thiết bị
+648c8b37f73a573b5e7d60bc,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c8b37f73a573b5e7d60bc.wav,đóng thiết bị
+648f191cbd5f01c507bbd87e,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f191cbd5f01c507bbd87e.wav,bật thiết bị
+648dc1344c8402450b3e02e1,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648dc1344c8402450b3e02e1.wav,đóng thiết bị
+648f3a09bd5f01d266bc099e,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f3a09bd5f01d266bc099e.wav,bật thiết bị
+648db39d4c84023aa13deb83,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648db39d4c84023aa13deb83.wav,kiểm tra tình trạng thiết bị
+6488733b629cf7aee1238e04,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6488733b629cf7aee1238e04.wav,tăng độ sáng của thiết bị
+648db4294c84026a543dec5a,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648db4294c84026a543dec5a.wav,mở thiết bị
+648b2c8b6083256a16e94cf9,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b2c8b6083256a16e94cf9.wav,kiểm tra tình trạng thiết bị
+64b3f464d6657a65068cdc0b,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64b3f464d6657a65068cdc0b.wav,kích hoạt cảnh
+648f282ebd5f0119ecbbf359,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f282ebd5f0119ecbbf359.wav,tăng độ sáng của thiết bị
+648f1a8cbd5f010b62bbdba2,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f1a8cbd5f010b62bbdba2.wav,tăng độ sáng của thiết bị
+64848bc519e040a6705e3d8f,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64848bc519e040a6705e3d8f.wav,tăng độ sáng của thiết bị
+64b0bbffdc25ab066b39d795,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64b0bbffdc25ab066b39d795.wav,hủy hoạt cảnh
+64b3f563d6657a37888cdc6a,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64b3f563d6657a37888cdc6a.wav,hủy hoạt cảnh
+6484870e19e04059165e35aa,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6484870e19e04059165e35aa.wav,đóng thiết bị
+648486f719e0405c305e3567,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648486f719e0405c305e3567.wav,giảm độ sáng của thiết bị
+648db4104c8402238f3dec48,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648db4104c8402238f3dec48.wav,tắt thiết bị
+648c7e05f73a5765df7d2fa2,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c7e05f73a5765df7d2fa2.wav,mở thiết bị
+648b346e608325d7c0e95fc2,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b346e608325d7c0e95fc2.wav,tắt thiết bị
+64846db119e040ca965e1914,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64846db119e040ca965e1914.wav,đóng thiết bị
+6485f0b38503516f2ee509a3,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485f0b38503516f2ee509a3.wav,bật thiết bị
+648b2ca76083258238e94d5f,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b2ca76083258238e94d5f.wav,tăng độ sáng của thiết bị
+6489c106000750678a922945,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6489c106000750678a922945.wav,giảm độ sáng của thiết bị
+648f1288bd5f0194f0bbcb3d,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f1288bd5f0194f0bbcb3d.wav,đóng thiết bị
+648db42e4c84024b6c3dec68,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648db42e4c84024b6c3dec68.wav,mở thiết bị
+648c876bf73a57381c7d5254,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c876bf73a57381c7d5254.wav,kiểm tra tình trạng thiết bị
+648c7591f73a57845e7d14fe,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c7591f73a57845e7d14fe.wav,bật thiết bị
+648725211ae676c42bb658af,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648725211ae676c42bb658af.wav,mở thiết bị
+64a1a204883d1514fbf2458d,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64a1a204883d1514fbf2458d.wav,kích hoạt cảnh
+6489c863000750d7829237a2,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6489c863000750d7829237a2.wav,bật thiết bị
+648b1c32608325a1aee92251,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b1c32608325a1aee92251.wav,kiểm tra tình trạng thiết bị
+6485e8ea8503513140e4fad1,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485e8ea8503513140e4fad1.wav,mở thiết bị
+64870fac1ae676583db63bcf,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64870fac1ae676583db63bcf.wav,bật thiết bị
+648b2fe06083256cc0e9555c,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b2fe06083256cc0e9555c.wav,mở thiết bị
+648b334d608325ad58e95d7a,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b334d608325ad58e95d7a.wav,tắt thiết bị
+648f2356bd5f017cccbbeb12,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f2356bd5f017cccbbeb12.wav,tắt thiết bị
+64889a5c629cf7d44423b571,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64889a5c629cf7d44423b571.wav,kiểm tra tình trạng thiết bị
+648726091ae6766437b65a77,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648726091ae6766437b65a77.wav,đóng thiết bị
+648dcf034c840205783e192c,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648dcf034c840205783e192c.wav,kiểm tra tình trạng thiết bị
+648b3b436083252a96e9711a,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b3b436083252a96e9711a.wav,đóng thiết bị
+648b24256083251e9ae935ba,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b24256083251e9ae935ba.wav,đóng thiết bị
+648b23b0608325a0d2e9349a,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b23b0608325a0d2e9349a.wav,tăng mức độ của thiết bị
+648b2fef60832512bde9558f,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b2fef60832512bde9558f.wav,đóng thiết bị
+64917523c5f5261293fdbde3,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64917523c5f5261293fdbde3.wav,tăng mức độ của thiết bị
+648dbeb94c84020b923dfe4e,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648dbeb94c84020b923dfe4e.wav,tắt thiết bị
+648f121ebd5f01e24ebbca8d,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f121ebd5f01e24ebbca8d.wav,đóng thiết bị
+648b2b876083252a9be94a6e,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b2b876083252a9be94a6e.wav,kiểm tra tình trạng thiết bị
+64848f7f19e040d3d55e43d2,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64848f7f19e040d3d55e43d2.wav,mở thiết bị
+648b150d6083259796e915b0,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b150d6083259796e915b0.wav,bật thiết bị
+648f36fcbd5f013d4abc05d5,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f36fcbd5f013d4abc05d5.wav,đóng thiết bị
+648333dcd9f569dd9941f837,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648333dcd9f569dd9941f837.wav,tắt thiết bị
+648dcf914c84022b443e19c0,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648dcf914c84022b443e19c0.wav,giảm độ sáng của thiết bị
+648c748cf73a57801b7d12c6,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c748cf73a57801b7d12c6.wav,đóng thiết bị
+648b18a1608325997fe91b64,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b18a1608325997fe91b64.wav,đóng thiết bị
+648dcabd4c840231513e131d,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648dcabd4c840231513e131d.wav,bật thiết bị
+648c8554f73a571e187d4a09,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c8554f73a571e187d4a09.wav,giảm âm lượng của thiết bị
+648b349c608325291ae9607a,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b349c608325291ae9607a.wav,tắt thiết bị
+6489bc4f00075021579223ad,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6489bc4f00075021579223ad.wav,mở thiết bị
+6485bf258503515148e4bf22,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485bf258503515148e4bf22.wav,tắt thiết bị
+64871e101ae6760b1ab64ce1,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64871e101ae6760b1ab64ce1.wav,kiểm tra tình trạng thiết bị
+6485d3438503511f91e4d84a,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485d3438503511f91e4d84a.wav,bật thiết bị
+648b216a6083251384e92ea9,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b216a6083251384e92ea9.wav,kiểm tra tình trạng thiết bị
+648f22d9bd5f01cdcebbea76,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f22d9bd5f01cdcebbea76.wav,đóng thiết bị
+648751151ae676669eb699cd,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648751151ae676669eb699cd.wav,kiểm tra tình trạng thiết bị
+64b40e85d6657a37198ce652,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64b40e85d6657a37198ce652.wav,hủy hoạt cảnh
+6488847e629cf737ac23a492,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6488847e629cf737ac23a492.wav,đóng thiết bị
+6484741e19e04068465e1fa1,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6484741e19e04068465e1fa1.wav,đóng thiết bị
+64888586629cf7002a23a584,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64888586629cf7002a23a584.wav,kiểm tra tình trạng thiết bị
+6484676119e04030295e14ea,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6484676119e04030295e14ea.wav,tắt thiết bị
+6485c85f8503510e99e4c963,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485c85f8503510e99e4c963.wav,đóng thiết bị
+648f1a48bd5f016413bbdade,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f1a48bd5f016413bbdade.wav,mở thiết bị
+648d8597ca834b7628159f74,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648d8597ca834b7628159f74.wav,tắt thiết bị
+648b1f9d608325ee60e92a1f,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b1f9d608325ee60e92a1f.wav,tắt thiết bị
+648f1dedbd5f017f15bbe1aa,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f1dedbd5f017f15bbe1aa.wav,đóng thiết bị
+648b28086083250d92e9416e,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b28086083250d92e9416e.wav,giảm độ sáng của thiết bị
+648f0d75bd5f018c3bbbc261,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f0d75bd5f018c3bbbc261.wav,đóng thiết bị
+648b1e7a6083256bcae92736,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b1e7a6083256bcae92736.wav,giảm độ sáng của thiết bị
+648c7eb0f73a5722b07d321c,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c7eb0f73a5722b07d321c.wav,kiểm tra tình trạng thiết bị
+64a2d9eef5f4463d10799232,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64a2d9eef5f4463d10799232.wav,hủy hoạt cảnh
+6487506c1ae6761d9db699ac,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6487506c1ae6761d9db699ac.wav,mở thiết bị
+648723ca1ae6760c57b6568e,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648723ca1ae6760c57b6568e.wav,bật thiết bị
+6485c8068503516acee4c8fb,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485c8068503516acee4c8fb.wav,bật thiết bị
+648f0861bd5f0149e6bbbb5f,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f0861bd5f0149e6bbbb5f.wav,tăng âm lượng của thiết bị
+6489c8a3000750c9b1923856,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6489c8a3000750c9b1923856.wav,bật thiết bị
+64834510d9f56909b842035f,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64834510d9f56909b842035f.wav,đóng thiết bị
+648c7dfdf73a5725e37d2f66,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c7dfdf73a5725e37d2f66.wav,kiểm tra tình trạng thiết bị
+648b38cb6083252ac7e96a59,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b38cb6083252ac7e96a59.wav,đóng thiết bị
+6489c93600075075b2923987,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6489c93600075075b2923987.wav,tăng độ sáng của thiết bị
+648883be629cf74f9a23a3b1,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648883be629cf74f9a23a3b1.wav,mở thiết bị
+648f31e3bd5f01fa1abbfe86,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f31e3bd5f01fa1abbfe86.wav,đóng thiết bị
+648f1c89bd5f010719bbdf8e,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f1c89bd5f010719bbdf8e.wav,đóng thiết bị
+649536295258cc07f29ed188,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/649536295258cc07f29ed188.wav,đóng thiết bị
+648b26806083250c8ce93ca2,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b26806083250c8ce93ca2.wav,đóng thiết bị
+648f19afbd5f017180bbd9cb,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f19afbd5f017180bbd9cb.wav,bật thiết bị
+648f1013bd5f01567dbbc6f0,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f1013bd5f01567dbbc6f0.wav,giảm mức độ của thiết bị
+64a19985883d159bc8f24329,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64a19985883d159bc8f24329.wav,kích hoạt cảnh
+648f1269bd5f014cd9bbcb18,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f1269bd5f014cd9bbcb18.wav,mở thiết bị
+6489cba50007509bc4923f98,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6489cba50007509bc4923f98.wav,kiểm tra tình trạng thiết bị
+6487228b1ae6761f0db6548b,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6487228b1ae6761f0db6548b.wav,giảm âm lượng của thiết bị
+648897cd629cf76af123b3ba,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648897cd629cf76af123b3ba.wav,đóng thiết bị
+64872f2a1ae6761effb66b3e,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64872f2a1ae6761effb66b3e.wav,giảm độ sáng của thiết bị
+648de5424c84020d893e4770,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648de5424c84020d893e4770.wav,bật thiết bị
+648c8b58f73a576f977d610c,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c8b58f73a576f977d610c.wav,tăng âm lượng của thiết bị
+648727da1ae67659c4b65dcd,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648727da1ae67659c4b65dcd.wav,giảm độ sáng của thiết bị
+6489ca3c000750dc7f923bfb,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6489ca3c000750dc7f923bfb.wav,giảm mức độ của thiết bị
+64874b8a1ae676ae9fb695e7,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64874b8a1ae676ae9fb695e7.wav,bật thiết bị
+648dccf24c840264d03e1643,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648dccf24c840264d03e1643.wav,tắt thiết bị
+6488772e629cf77bcc2391e3,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6488772e629cf77bcc2391e3.wav,tắt thiết bị
+6485c9d98503514c4ae4cb40,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485c9d98503514c4ae4cb40.wav,tăng mức độ của thiết bị
+648ae1e9b7c444a25a3950ed,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648ae1e9b7c444a25a3950ed.wav,đóng thiết bị
+6485dde585035133a1e4e820,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485dde585035133a1e4e820.wav,bật thiết bị
+6489c17d0007501213922a00,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6489c17d0007501213922a00.wav,kiểm tra tình trạng thiết bị
+64874b5a1ae6760910b69597,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64874b5a1ae6760910b69597.wav,tăng độ sáng của thiết bị
+6484859319e04057dd5e3336,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6484859319e04057dd5e3336.wav,mở thiết bị
+6485c13c850351648ae4c110,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485c13c850351648ae4c110.wav,tăng mức độ của thiết bị
+6485e8478503515deee4f9ba,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485e8478503515deee4f9ba.wav,tắt thiết bị
+648481a619e0408e705e2e38,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648481a619e0408e705e2e38.wav,tắt thiết bị
+6487357e1ae676fb29b6777d,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6487357e1ae676fb29b6777d.wav,kiểm tra tình trạng thiết bị
+64b40ac9d6657a4e848ce547,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64b40ac9d6657a4e848ce547.wav,kích hoạt cảnh
+648def154c840278ad3e50f0,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648def154c840278ad3e50f0.wav,bật thiết bị
+648dddf94c8402aa953e35c5,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648dddf94c8402aa953e35c5.wav,tắt thiết bị
+648de4a74c8402007c3e45d9,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648de4a74c8402007c3e45d9.wav,đóng thiết bị
+6485e5648503513e85e4f47f,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485e5648503513e85e4f47f.wav,bật thiết bị
+6489c8c5000750506d92389f,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6489c8c5000750506d92389f.wav,mở thiết bị
+648de1db4c8402b1d73e3edc,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648de1db4c8402b1d73e3edc.wav,tăng độ sáng của thiết bị
+648b3a68608325581ae96ed8,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b3a68608325581ae96ed8.wav,giảm độ sáng của thiết bị
+648738f71ae67686bab67d56,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648738f71ae67686bab67d56.wav,tăng độ sáng của thiết bị
+648b1e03608325863fe92605,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b1e03608325863fe92605.wav,tắt thiết bị
+648c73ecf73a57707d7d10e0,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c73ecf73a57707d7d10e0.wav,giảm độ sáng của thiết bị
+64886911629cf79b9923856d,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64886911629cf79b9923856d.wav,đóng thiết bị
+648b3bd56083250748e972b6,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b3bd56083250748e972b6.wav,kiểm tra tình trạng thiết bị
+648d29efca834bb712159807,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648d29efca834bb712159807.wav,kiểm tra tình trạng thiết bị
+648737861ae6763649b67abd,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648737861ae6763649b67abd.wav,giảm độ sáng của thiết bị
+648c75fff73a57941f7d15bd,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c75fff73a57941f7d15bd.wav,tắt thiết bị
+648dd5824c8402f9533e2488,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648dd5824c8402f9533e2488.wav,đóng thiết bị
+648b1355608325b264e91352,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b1355608325b264e91352.wav,tắt thiết bị
+6485ef36850351591be50738,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485ef36850351591be50738.wav,kiểm tra tình trạng thiết bị
+64886ec4629cf741b1238a16,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64886ec4629cf741b1238a16.wav,tắt thiết bị
+6489c886000750547892380e,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6489c886000750547892380e.wav,tắt thiết bị
+6485df5c85035125aae4ea2f,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485df5c85035125aae4ea2f.wav,tắt thiết bị
+6488692f629cf76d1923857a,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6488692f629cf76d1923857a.wav,kiểm tra tình trạng thiết bị
+648c8af7f73a57816f7d5fa1,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c8af7f73a57816f7d5fa1.wav,bật thiết bị
+648dbf094c840292293dfee5,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648dbf094c840292293dfee5.wav,mở thiết bị
+648f0f60bd5f01527bbbc5a3,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f0f60bd5f01527bbbc5a3.wav,mở thiết bị
+648b3b076083250e15e9708a,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b3b076083250e15e9708a.wav,mở thiết bị
+648b2a80608325d3b8e947e9,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b2a80608325d3b8e947e9.wav,tắt thiết bị
+648c8920f73a5758c07d59af,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c8920f73a5758c07d59af.wav,tắt thiết bị
+6485e8e9850351ab5fe4fac2,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485e8e9850351ab5fe4fac2.wav,mở thiết bị
+64872c461ae676186bb66631,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64872c461ae676186bb66631.wav,tăng độ sáng của thiết bị
+64887c57629cf7a9ea23996f,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64887c57629cf7a9ea23996f.wav,kiểm tra tình trạng thiết bị
+64888afc629cf76d9223aa36,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64888afc629cf76d9223aa36.wav,mở thiết bị
+64887441629cf70d49238ec5,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64887441629cf70d49238ec5.wav,bật thiết bị
+6485dd1c8503510761e4e736,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485dd1c8503510761e4e736.wav,mở thiết bị
+648f055cbd5f016ceebbb7ad,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f055cbd5f016ceebbb7ad.wav,kiểm tra tình trạng thiết bị
+648f17b8bd5f0107d5bbd564,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f17b8bd5f0107d5bbd564.wav,giảm độ sáng của thiết bị
+648c7f1df73a57446f7d335e,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c7f1df73a57446f7d335e.wav,tăng độ sáng của thiết bị
+6489c5390007502b2992307b,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6489c5390007502b2992307b.wav,kiểm tra tình trạng thiết bị
+6483375dd9f5694a4a41fa3c,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6483375dd9f5694a4a41fa3c.wav,đóng thiết bị
+6489c3ce00075043d8922dd2,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6489c3ce00075043d8922dd2.wav,tăng độ sáng của thiết bị
+648f1955bd5f011611bbd8dd,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f1955bd5f011611bbd8dd.wav,kiểm tra tình trạng thiết bị
+648c9888f73a57ef0c7d7986,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c9888f73a57ef0c7d7986.wav,tăng mức độ của thiết bị
+6485e4c785035197fce4f37f,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485e4c785035197fce4f37f.wav,tắt thiết bị
+648f0c3bbd5f01e079bbc0af,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f0c3bbd5f01e079bbc0af.wav,mở thiết bị
+648f3991bd5f01d227bc092d,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f3991bd5f01d227bc092d.wav,đóng thiết bị
+6485c72f8503515137e4c7c9,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485c72f8503515137e4c7c9.wav,kiểm tra tình trạng thiết bị
+648b361b6083252e1fe96419,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b361b6083252e1fe96419.wav,đóng thiết bị
+648dd6174c840271fd3e2590,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648dd6174c840271fd3e2590.wav,mở thiết bị
+648f0cbebd5f01b698bbc14a,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f0cbebd5f01b698bbc14a.wav,bật thiết bị
+648dd8204c84023d683e293f,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648dd8204c84023d683e293f.wav,tăng nhiệt độ của thiết bị
+648ae52cb7c4440fdd3951a2,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648ae52cb7c4440fdd3951a2.wav,mở thiết bị
+648b2b8860832545e2e94a83,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b2b8860832545e2e94a83.wav,giảm âm lượng của thiết bị
+648dca264c8402b7fb3e1283,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648dca264c8402b7fb3e1283.wav,mở thiết bị
+64887b30629cf75da22397b4,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64887b30629cf75da22397b4.wav,mở thiết bị
+648dbc3b4c84022fd33df9f8,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648dbc3b4c84022fd33df9f8.wav,kiểm tra tình trạng thiết bị
+64889732629cf71e5123b31d,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64889732629cf71e5123b31d.wav,kiểm tra tình trạng thiết bị
+648dbc6c4c8402506b3dfa5c,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648dbc6c4c8402506b3dfa5c.wav,mở thiết bị
+648b2dbe6083251ad3e95047,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b2dbe6083251ad3e95047.wav,đóng thiết bị
+64847f1919e04086e75e2b4e,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64847f1919e04086e75e2b4e.wav,tắt thiết bị
+64873c201ae6761b8eb6819b,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64873c201ae6761b8eb6819b.wav,kiểm tra tình trạng thiết bị
+648c81acf73a572dbd7d3d43,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c81acf73a572dbd7d3d43.wav,kiểm tra tình trạng thiết bị
+64b40cc4d6657af6dd8ce5cd,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64b40cc4d6657af6dd8ce5cd.wav,kích hoạt cảnh
+648f3a62bd5f01d3ddbc0a10,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f3a62bd5f01d3ddbc0a10.wav,tăng độ sáng của thiết bị
+648bdf82f7c92ca5054e8da2,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648bdf82f7c92ca5054e8da2.wav,tăng độ sáng của thiết bị
+64870fed1ae67610cab63c1a,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64870fed1ae67610cab63c1a.wav,tăng độ sáng của thiết bị
+6485dc2d8503510fe2e4e60b,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485dc2d8503510fe2e4e60b.wav,bật thiết bị
+648b357d6083253ddde962b6,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b357d6083253ddde962b6.wav,mở thiết bị
+648b344d6083250d80e95f46,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b344d6083250d80e95f46.wav,đóng thiết bị
+648c8b7af73a57cf647d6157,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c8b7af73a57cf647d6157.wav,đóng thiết bị
+648f1307bd5f01414dbbcc26,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f1307bd5f01414dbbcc26.wav,tăng nhiệt độ của thiết bị
+648b1dd4608325cb8ee92565,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b1dd4608325cb8ee92565.wav,mở thiết bị
+648732c01ae676336eb67289,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648732c01ae676336eb67289.wav,đóng thiết bị
+648f1332bd5f017bbbbbcc5f,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f1332bd5f017bbbbbcc5f.wav,tăng độ sáng của thiết bị
+648f3675bd5f013a52bc0507,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f3675bd5f013a52bc0507.wav,tăng độ sáng của thiết bị
+64888a21629cf75fb323a96a,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64888a21629cf75fb323a96a.wav,kiểm tra tình trạng thiết bị
+64b3fc52d6657a08a58cdf17,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64b3fc52d6657a08a58cdf17.wav,hủy hoạt cảnh
+6485eea3850351f5bce50644,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485eea3850351f5bce50644.wav,tăng độ sáng của thiết bị
+64846f8a19e0401f9f5e1aa3,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64846f8a19e0401f9f5e1aa3.wav,mở thiết bị
+648710311ae676240ab63c39,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648710311ae676240ab63c39.wav,kiểm tra tình trạng thiết bị
+648b37226083253519e96637,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b37226083253519e96637.wav,đóng thiết bị
+64b3fa9ed6657a1b678cde68,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64b3fa9ed6657a1b678cde68.wav,hủy hoạt cảnh
+64873eed1ae6766115b685a3,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64873eed1ae6766115b685a3.wav,đóng thiết bị
+64874f821ae676518db69972,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64874f821ae676518db69972.wav,đóng thiết bị
+648720611ae6768dc5b65080,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648720611ae6768dc5b65080.wav,tắt thiết bị
+648f1301bd5f0198afbbcc16,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f1301bd5f0198afbbcc16.wav,bật thiết bị
+64846bb119e0406f7c5e176d,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64846bb119e0406f7c5e176d.wav,kiểm tra tình trạng thiết bị
+648b21666083257abde92e8e,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b21666083257abde92e8e.wav,tắt thiết bị
+64873a341ae67692a6b67f6a,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64873a341ae67692a6b67f6a.wav,tắt thiết bị
+648c9230f73a5711aa7d71fd,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c9230f73a5711aa7d71fd.wav,mở thiết bị
+6485c15f8503515fffe4c12c,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485c15f8503515fffe4c12c.wav,bật thiết bị
+648b3ba0608325cc60e97230,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b3ba0608325cc60e97230.wav,giảm độ sáng của thiết bị
+648738e61ae676c36cb67d3d,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648738e61ae676c36cb67d3d.wav,kiểm tra tình trạng thiết bị
+648c7d30f73a57eafd7d2c73,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c7d30f73a57eafd7d2c73.wav,bật thiết bị
+648737591ae6765b73b67a5f,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648737591ae6765b73b67a5f.wav,giảm độ sáng của thiết bị
+64872e401ae6764161b669ab,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64872e401ae6764161b669ab.wav,giảm độ sáng của thiết bị
+648711381ae6766114b63d9a,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648711381ae6766114b63d9a.wav,bật thiết bị
+648c82d9f73a571d757d4144,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c82d9f73a571d757d4144.wav,tắt thiết bị
+648c8d2ef73a57317e7d661c,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c8d2ef73a57317e7d661c.wav,mở thiết bị
+648f1e8dbd5f013d63bbe2bf,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f1e8dbd5f013d63bbe2bf.wav,giảm độ sáng của thiết bị
+6491758fc5f526b14afdbe00,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6491758fc5f526b14afdbe00.wav,bật thiết bị
+648c8ad4f73a57c39b7d5f63,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c8ad4f73a57c39b7d5f63.wav,bật thiết bị
+648f21d1bd5f01464abbe893,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f21d1bd5f01464abbe893.wav,bật thiết bị
+648c7c78f73a57c8347d29c7,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c7c78f73a57c8347d29c7.wav,kiểm tra tình trạng thiết bị
+648c8e35f73a57221e7d68f4,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c8e35f73a57221e7d68f4.wav,kiểm tra tình trạng thiết bị
+6484724619e0401d875e1da4,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6484724619e0401d875e1da4.wav,đóng thiết bị
+64849c0b19e04024bd5e5745,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64849c0b19e04024bd5e5745.wav,kiểm tra tình trạng thiết bị
+64a502cebec9924f9b4b86a4,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64a502cebec9924f9b4b86a4.wav,hủy hoạt cảnh
+6485e21085035170bde4eecd,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485e21085035170bde4eecd.wav,mở thiết bị
+648dd3414c84024ea33e1fe4,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648dd3414c84024ea33e1fe4.wav,giảm mức độ của thiết bị
+648de0e64c8402843b3e3ca8,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648de0e64c8402843b3e3ca8.wav,mở thiết bị
+64a199fe883d15ef62f24363,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64a199fe883d15ef62f24363.wav,hủy hoạt cảnh
+648dd8994c84026d5f3e2a70,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648dd8994c84026d5f3e2a70.wav,kiểm tra tình trạng thiết bị
+648747cc1ae6765d10b6915e,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648747cc1ae6765d10b6915e.wav,tăng mức độ của thiết bị
+6489c6f3000750777c92344d,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6489c6f3000750777c92344d.wav,giảm độ sáng của thiết bị
+6485cc5b850351415ce4cea9,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485cc5b850351415ce4cea9.wav,kiểm tra tình trạng thiết bị
+648c7959f73a57c72b7d1f89,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c7959f73a57c72b7d1f89.wav,giảm độ sáng của thiết bị
+648ddf8c4c840271473e396c,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648ddf8c4c840271473e396c.wav,kiểm tra tình trạng thiết bị
+648dba504c84029f6a3df631,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648dba504c84029f6a3df631.wav,tăng độ sáng của thiết bị
+648f17e9bd5f01e61bbbd5ef,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f17e9bd5f01e61bbbd5ef.wav,bật thiết bị
+64888903629cf7e61d23a855,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64888903629cf7e61d23a855.wav,bật thiết bị
+648ddbef4c840261203e316c,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648ddbef4c840261203e316c.wav,bật thiết bị
+648ae13db7c4442f1a3950a3,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648ae13db7c4442f1a3950a3.wav,tăng nhiệt độ của thiết bị
+64834431d9f569b8264202f3,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64834431d9f569b8264202f3.wav,mở thiết bị
+64849bfb19e04002175e571c,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64849bfb19e04002175e571c.wav,mở thiết bị
+648f0db9bd5f013305bbc2d4,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f0db9bd5f013305bbc2d4.wav,đóng thiết bị
+64832eb5d9f569841c41f656,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64832eb5d9f569841c41f656.wav,đóng thiết bị
+648c7872f73a575a0c7d1cd3,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c7872f73a575a0c7d1cd3.wav,tăng âm lượng của thiết bị
+648f03ecbd5f011a5cbbb5e6,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f03ecbd5f011a5cbbb5e6.wav,kiểm tra tình trạng thiết bị
+64847e0719e04070715e2a0e,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64847e0719e04070715e2a0e.wav,kiểm tra tình trạng thiết bị
+64833571d9f569cd3c41f901,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64833571d9f569cd3c41f901.wav,giảm độ sáng của thiết bị
+648dcf924c84021be43e19d0,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648dcf924c84021be43e19d0.wav,tăng độ sáng của thiết bị
+6485be148503518313e4be02,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485be148503518313e4be02.wav,kiểm tra tình trạng thiết bị
+6489be10000750c78b92253d,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6489be10000750c78b92253d.wav,giảm độ sáng của thiết bị
+648c7fcef73a5723027d3662,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c7fcef73a5723027d3662.wav,mở thiết bị
+6485d7da850351228ee4dedf,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485d7da850351228ee4dedf.wav,tăng mức độ của thiết bị
+6488913e629cf7183723af1b,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6488913e629cf7183723af1b.wav,tăng mức độ của thiết bị
+6484736719e04060105e1ef2,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6484736719e04060105e1ef2.wav,mở thiết bị
+648f36febd5f01bd43bc05e5,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f36febd5f01bd43bc05e5.wav,giảm độ sáng của thiết bị
+6485d8b78503517a2de4e073,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485d8b78503517a2de4e073.wav,đóng thiết bị
+6489c72f00075075599234ac,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6489c72f00075075599234ac.wav,kiểm tra tình trạng thiết bị
+648b3e616083259face978a6,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b3e616083259face978a6.wav,mở thiết bị
+64b3f845d6657a93108cdd92,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64b3f845d6657a93108cdd92.wav,hủy hoạt cảnh
+6488898e629cf7dd7e23a8c4,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6488898e629cf7dd7e23a8c4.wav,giảm nhiệt độ của thiết bị
+648b29da60832581e5e94608,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b29da60832581e5e94608.wav,tắt thiết bị
+648b346860832514f2e95fa2,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b346860832514f2e95fa2.wav,bật thiết bị
+64887cff629cf7a268239a77,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64887cff629cf7a268239a77.wav,tăng độ sáng của thiết bị
+648dde374c840251f83e3665,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648dde374c840251f83e3665.wav,bật thiết bị
+648710601ae676954bb63c91,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648710601ae676954bb63c91.wav,bật thiết bị
+648c7695f73a57b63c7d1753,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c7695f73a57b63c7d1753.wav,giảm độ sáng của thiết bị
+648746da1ae67685d3b6902c,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648746da1ae67685d3b6902c.wav,giảm độ sáng của thiết bị
+6489c26d000750ff86922b86,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6489c26d000750ff86922b86.wav,tăng độ sáng của thiết bị
+64917b72c5f5269198fdbeca,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64917b72c5f5269198fdbeca.wav,bật thiết bị
+6485f497850351332fe50d72,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485f497850351332fe50d72.wav,tắt thiết bị
+648b313260832579d1e958bc,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b313260832579d1e958bc.wav,đóng thiết bị
+648b3bae6083255beee97282,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b3bae6083255beee97282.wav,tắt thiết bị
+648f1641bd5f01eedebbd22d,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f1641bd5f01eedebbd22d.wav,mở thiết bị
+6484752119e04073b35e20b5,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6484752119e04073b35e20b5.wav,tăng độ sáng của thiết bị
+64887575629cf74e4f238fed,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64887575629cf74e4f238fed.wav,tăng độ sáng của thiết bị
+64872f741ae67600a0b66bd5,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64872f741ae67600a0b66bd5.wav,giảm mức độ của thiết bị
+648b2cb860832527a8e94d86,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b2cb860832527a8e94d86.wav,bật thiết bị
+648724fd1ae67630c6b65898,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648724fd1ae67630c6b65898.wav,bật thiết bị
+648dd4944c8402421a3e225e,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648dd4944c8402421a3e225e.wav,kiểm tra tình trạng thiết bị
+6489c6e000075063b8923400,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6489c6e000075063b8923400.wav,tăng âm lượng của thiết bị
+648de1ed4c84027ad53e3f1b,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648de1ed4c84027ad53e3f1b.wav,tăng mức độ của thiết bị
+64847ee019e04017355e2b06,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64847ee019e04017355e2b06.wav,tắt thiết bị
+6488796c629cf7db6623951d,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6488796c629cf7db6623951d.wav,bật thiết bị
+648c7249f73a57130b7d0d37,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c7249f73a57130b7d0d37.wav,tăng mức độ của thiết bị
+648c8ceff73a572b9e7d6576,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c8ceff73a572b9e7d6576.wav,mở thiết bị
+648f1abfbd5f01e5afbbdc08,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f1abfbd5f01e5afbbdc08.wav,đóng thiết bị
+6487144c1ae6764733b64088,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6487144c1ae6764733b64088.wav,mở thiết bị
+648c7bf3f73a577e9e7d281f,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c7bf3f73a577e9e7d281f.wav,tăng độ sáng của thiết bị
+648f2800bd5f01ff69bbf31c,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f2800bd5f01ff69bbf31c.wav,kiểm tra tình trạng thiết bị
+648748491ae6769f24b691f6,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648748491ae6769f24b691f6.wav,mở thiết bị
+6485e24b850351a354e4ef22,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485e24b850351a354e4ef22.wav,kiểm tra tình trạng thiết bị
+64b2ab8346b935629fb6f678,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64b2ab8346b935629fb6f678.wav,hủy hoạt cảnh
+6484662319e04003fe5e147c,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6484662319e04003fe5e147c.wav,tắt thiết bị
+64832296d9f569edd641f1d8,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64832296d9f569edd641f1d8.wav,mở thiết bị
+64870d9e1ae6760a35b639e6,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64870d9e1ae6760a35b639e6.wav,tắt thiết bị
+648f1a4ebd5f0163d2bbdaf8,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f1a4ebd5f0163d2bbdaf8.wav,đóng thiết bị
+648b21b7608325c35de92f6a,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b21b7608325c35de92f6a.wav,tăng độ sáng của thiết bị
+648b34526083252b66e95f63,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b34526083252b66e95f63.wav,bật thiết bị
+648f221fbd5f014eeebbe91b,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f221fbd5f014eeebbe91b.wav,mở thiết bị
+648c88edf73a576eba7d58ef,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c88edf73a576eba7d58ef.wav,bật thiết bị
+6483289ad9f56957c341f3d3,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6483289ad9f56957c341f3d3.wav,đóng thiết bị
+648f1e69bd5f01437bbbe274,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f1e69bd5f01437bbbe274.wav,kiểm tra tình trạng thiết bị
+648dd7eb4c840213543e28ea,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648dd7eb4c840213543e28ea.wav,mở thiết bị
+6485e9d985035141dce4fc89,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485e9d985035141dce4fc89.wav,kiểm tra tình trạng thiết bị
+6487302f1ae6767872b66d8d,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6487302f1ae6767872b66d8d.wav,kiểm tra tình trạng thiết bị
+64b2abdf46b935343bb6f689,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64b2abdf46b935343bb6f689.wav,kích hoạt cảnh
+64a2e11ef5f4469d82799364,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64a2e11ef5f4469d82799364.wav,kích hoạt cảnh
+64873ca51ae6760d6eb68272,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64873ca51ae6760d6eb68272.wav,bật thiết bị
+648c888cf73a578f9f7d56cf,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c888cf73a578f9f7d56cf.wav,đóng thiết bị
+648de3974c840268d53e42e3,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648de3974c840268d53e42e3.wav,tắt thiết bị
+6485fe318503510fdfe512c7,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485fe318503510fdfe512c7.wav,tăng mức độ của thiết bị
+648b127a6083258fece91224,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b127a6083258fece91224.wav,tắt thiết bị
+648f358fbd5f0177a0bc038e,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f358fbd5f0177a0bc038e.wav,tắt thiết bị
+648b27bb60832591f6e9408a,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b27bb60832591f6e9408a.wav,kiểm tra tình trạng thiết bị
+64a19cef883d15095ef2448b,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64a19cef883d15095ef2448b.wav,kích hoạt cảnh
+648f0583bd5f012764bbb7d9,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f0583bd5f012764bbb7d9.wav,mở thiết bị
+6489c9fa000750a1da923b26,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6489c9fa000750a1da923b26.wav,tắt thiết bị
+6485bda48503513abfe4bd9b,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485bda48503513abfe4bd9b.wav,kiểm tra tình trạng thiết bị
+648711591ae6766088b63dac,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648711591ae6766088b63dac.wav,tắt thiết bị
+648db7bd4c8402f7773df1cd,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648db7bd4c8402f7773df1cd.wav,bật thiết bị
+648dbab54c8402017e3df6fc,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648dbab54c8402017e3df6fc.wav,tắt thiết bị
+648d3659ca834b721c159c68,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648d3659ca834b721c159c68.wav,đóng thiết bị
+648dc9294c84024ad23e1113,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648dc9294c84024ad23e1113.wav,đóng thiết bị
+648c8863f73a572f547d566d,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c8863f73a572f547d566d.wav,giảm nhiệt độ của thiết bị
+64847b6519e04064125e26a2,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64847b6519e04064125e26a2.wav,giảm độ sáng của thiết bị
+648b23bc608325c104e934d5,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b23bc608325c104e934d5.wav,kiểm tra tình trạng thiết bị
+648871fe629cf7ff1b238cc1,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648871fe629cf7ff1b238cc1.wav,tắt thiết bị
+648c7be6f73a570cd77d280b,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c7be6f73a570cd77d280b.wav,bật thiết bị
+648c8da9f73a5758a47d674b,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c8da9f73a5758a47d674b.wav,mở thiết bị
+6484872019e04067415e35b9,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6484872019e04067415e35b9.wav,bật thiết bị
+648c9a8ef73a5788447d7aa0,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c9a8ef73a5788447d7aa0.wav,tắt thiết bị
+648347ced9f569de3d4204b6,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648347ced9f569de3d4204b6.wav,mở thiết bị
+648493c619e0403ac25e4ae0,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648493c619e0403ac25e4ae0.wav,tắt thiết bị
+6484702d19e0408ceb5e1b33,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6484702d19e0408ceb5e1b33.wav,đóng thiết bị
+6489cb9500075055b4923f80,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6489cb9500075055b4923f80.wav,mở thiết bị
+648dea6c4c8402869e3e4eb9,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648dea6c4c8402869e3e4eb9.wav,bật thiết bị
+6485f11085035119c9e50a2d,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485f11085035119c9e50a2d.wav,bật thiết bị
+6485c340850351e7dbe4c367,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485c340850351e7dbe4c367.wav,giảm độ sáng của thiết bị
+648c8d5af73a5735f77d669b,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c8d5af73a5735f77d669b.wav,bật thiết bị
+648735cb1ae676442fb6783b,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648735cb1ae676442fb6783b.wav,đóng thiết bị
+648dd2e84c840222613e1f28,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648dd2e84c840222613e1f28.wav,đóng thiết bị
+648dc21a4c84029ae93e045c,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648dc21a4c84029ae93e045c.wav,đóng thiết bị
+648c83c5f73a5793c37d444e,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c83c5f73a5793c37d444e.wav,giảm độ sáng của thiết bị
+648b3690608325c8c9e96557,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b3690608325c8c9e96557.wav,kiểm tra tình trạng thiết bị
+648c7f1af73a57d0807d3337,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c7f1af73a57d0807d3337.wav,tăng độ sáng của thiết bị
+64889647629cf7a03523b24c,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64889647629cf7a03523b24c.wav,tăng độ sáng của thiết bị
+648c7b2cf73a57a5317d2578,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c7b2cf73a57a5317d2578.wav,giảm độ sáng của thiết bị
+648db57e4c840259023dee74,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648db57e4c840259023dee74.wav,giảm độ sáng của thiết bị
+648869d2629cf71de12385de,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648869d2629cf71de12385de.wav,tắt thiết bị
+64874e361ae6761e9ab6985f,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64874e361ae6761e9ab6985f.wav,tăng độ sáng của thiết bị
+648dc2ce4c840218e53e058c,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648dc2ce4c840218e53e058c.wav,tắt thiết bị
+64a18e57883d15130bf24119,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64a18e57883d15130bf24119.wav,hủy hoạt cảnh
+648741ca1ae676bb8db689ba,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648741ca1ae676bb8db689ba.wav,tăng độ sáng của thiết bị
+648f0b40bd5f013be0bbbf12,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f0b40bd5f013be0bbbf12.wav,mở thiết bị
+64872bce1ae67690d4b66547,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64872bce1ae67690d4b66547.wav,tắt thiết bị
+648dbb2f4c840259753df7ed,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648dbb2f4c840259753df7ed.wav,tăng mức độ của thiết bị
+6487323d1ae676848bb6718b,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6487323d1ae676848bb6718b.wav,đóng thiết bị
+648f35f9bd5f010a79bc0434,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f35f9bd5f010a79bc0434.wav,giảm mức độ của thiết bị
+648adefeb7c444728c394fa6,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648adefeb7c444728c394fa6.wav,tăng mức độ của thiết bị
+64888673629cf73cfe23a623,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64888673629cf73cfe23a623.wav,đóng thiết bị
+648485a919e040e7dc5e3356,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648485a919e040e7dc5e3356.wav,tắt thiết bị
+648f288bbd5f012c00bbf3d6,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f288bbd5f012c00bbf3d6.wav,kiểm tra tình trạng thiết bị
+648dcbf54c84024f203e14f3,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648dcbf54c84024f203e14f3.wav,tăng độ sáng của thiết bị
+648c737cf73a571d0d7d0ff0,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c737cf73a571d0d7d0ff0.wav,kiểm tra tình trạng thiết bị
+6484884f19e040616d5e375e,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6484884f19e040616d5e375e.wav,đóng thiết bị
+648c89ccf73a5716767d5c50,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c89ccf73a5716767d5c50.wav,đóng thiết bị
+648de0b24c84027aaa3e3c4b,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648de0b24c84027aaa3e3c4b.wav,mở thiết bị
+6492b439da75facd85484dfe,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6492b439da75facd85484dfe.wav,đóng thiết bị
+648b15056083258f13e9159c,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b15056083258f13e9159c.wav,đóng thiết bị
+648c7e9bf73a5722537d31ad,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c7e9bf73a5722537d31ad.wav,đóng thiết bị
+648735331ae6767825b6771e,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648735331ae6767825b6771e.wav,bật thiết bị
+64849f2919e04076085e5ab5,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64849f2919e04076085e5ab5.wav,tắt thiết bị
+648c7a21f73a573d737d2248,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c7a21f73a573d737d2248.wav,kiểm tra tình trạng thiết bị
+6484949e19e0401cd25e4c9f,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6484949e19e0401cd25e4c9f.wav,giảm độ sáng của thiết bị
+648f3404bd5f01c12cbc013b,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f3404bd5f01c12cbc013b.wav,mở thiết bị
+64873c2d1ae6761baeb681c6,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64873c2d1ae6761baeb681c6.wav,giảm độ sáng của thiết bị
+648b2179608325c426e92ed2,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b2179608325c426e92ed2.wav,đóng thiết bị
+64846e3719e0407e785e19a9,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64846e3719e0407e785e19a9.wav,tăng mức độ của thiết bị
+648724151ae67636a7b656f4,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648724151ae67636a7b656f4.wav,tắt thiết bị
+648b192d60832511c0e91c35,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b192d60832511c0e91c35.wav,giảm độ sáng của thiết bị
+648c814ef73a57dd527d3bea,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c814ef73a57dd527d3bea.wav,bật thiết bị
+6485ce848503511363e4d1c2,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485ce848503511363e4d1c2.wav,bật thiết bị
+648f1294bd5f011625bbcb58,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f1294bd5f011625bbcb58.wav,mở thiết bị
+648c82eef73a57610e7d418c,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c82eef73a57610e7d418c.wav,tăng độ sáng của thiết bị
+648f166fbd5f0136e8bbd29b,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f166fbd5f0136e8bbd29b.wav,bật thiết bị
+648f3d3ebd5f018c3fbc0bd0,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f3d3ebd5f018c3fbc0bd0.wav,đóng thiết bị
+6484a88c19e040ba895e5cd6,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6484a88c19e040ba895e5cd6.wav,bật thiết bị
+648f1fa7bd5f01364ebbe4fa,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f1fa7bd5f01364ebbe4fa.wav,kiểm tra tình trạng thiết bị
+648739351ae6766f4ab67dd5,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648739351ae6766f4ab67dd5.wav,kiểm tra tình trạng thiết bị
+648c6e28f73a571f357d08e3,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c6e28f73a571f357d08e3.wav,mở thiết bị
+648b38526083252ee5e968fe,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b38526083252ee5e968fe.wav,giảm độ sáng của thiết bị
+648c7dc0f73a575b9c7d2e40,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c7dc0f73a575b9c7d2e40.wav,mở thiết bị
+648b365c6083259ab2e964b3,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b365c6083259ab2e964b3.wav,tắt thiết bị
+648f20cfbd5f01607abbe702,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f20cfbd5f01607abbe702.wav,mở thiết bị
+648c77adf73a573b117d1ab2,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c77adf73a573b117d1ab2.wav,tắt thiết bị
+648de4c64c840267b83e465c,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648de4c64c840267b83e465c.wav,kiểm tra tình trạng thiết bị
+648f1c0fbd5f01d65fbbde82,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f1c0fbd5f01d65fbbde82.wav,mở thiết bị
+64889bae629cf7e77e23b65f,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64889bae629cf7e77e23b65f.wav,bật thiết bị
+648c7ba1f73a578c247d2726,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c7ba1f73a578c247d2726.wav,kiểm tra tình trạng thiết bị
+648b1c736083254a45e922f0,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b1c736083254a45e922f0.wav,mở thiết bị
+648f0e61bd5f017c56bbc3f7,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f0e61bd5f017c56bbc3f7.wav,đóng thiết bị
+648b32d66083256c8ae95c28,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b32d66083256c8ae95c28.wav,tăng mức độ của thiết bị
+6489be7000075063bc9225c2,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6489be7000075063bc9225c2.wav,mở thiết bị
+648dd0cf4c840268053e1b80,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648dd0cf4c840268053e1b80.wav,kiểm tra tình trạng thiết bị
+648b3186608325d7d4e95947,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b3186608325d7d4e95947.wav,kiểm tra tình trạng thiết bị
+648f2476bd5f010d22bbed6b,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f2476bd5f010d22bbed6b.wav,giảm độ sáng của thiết bị
+64832853d9f569327141f3b2,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64832853d9f569327141f3b2.wav,tăng độ sáng của thiết bị
+648d3619ca834b5273159c3a,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648d3619ca834b5273159c3a.wav,kiểm tra tình trạng thiết bị
+6488749e629cf702a4238f53,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6488749e629cf702a4238f53.wav,tăng độ sáng của thiết bị
+648749b51ae6762716b69385,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648749b51ae6762716b69385.wav,kiểm tra tình trạng thiết bị
+648b291c60832507efe94446,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b291c60832507efe94446.wav,mở thiết bị
+648d8948ca834b33c315a076,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648d8948ca834b33c315a076.wav,mở thiết bị
+648c8958f73a571d907d5a7e,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c8958f73a571d907d5a7e.wav,mở thiết bị
+648dc53b4c8402ac053e09ea,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648dc53b4c8402ac053e09ea.wav,giảm mức độ của thiết bị
+648f37f1bd5f016a27bc077c,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f37f1bd5f016a27bc077c.wav,kiểm tra tình trạng thiết bị
+648c7b79f73a5771a47d26aa,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c7b79f73a5771a47d26aa.wav,tắt thiết bị
+648c8300f73a57bb257d41db,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c8300f73a57bb257d41db.wav,kiểm tra tình trạng thiết bị
+6485f08285035103dde50954,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485f08285035103dde50954.wav,tắt thiết bị
+64873d481ae6762f0cb68355,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64873d481ae6762f0cb68355.wav,kiểm tra tình trạng thiết bị
+648c8677f73a57f2e67d4dee,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c8677f73a57f2e67d4dee.wav,kiểm tra tình trạng thiết bị
+64887cfb629cf7673d239a4e,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64887cfb629cf7673d239a4e.wav,giảm độ sáng của thiết bị
+6485ee6b850351815de505bb,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485ee6b850351815de505bb.wav,đóng thiết bị
+648f1f1fbd5f015bd1bbe3d0,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f1f1fbd5f015bd1bbe3d0.wav,bật thiết bị
+6485ef478503512834e5074b,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485ef478503512834e5074b.wav,mở thiết bị
+648ddd5b4c8402311c3e3496,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648ddd5b4c8402311c3e3496.wav,tăng độ sáng của thiết bị
+648802d0e5dbdfdff45fe697,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648802d0e5dbdfdff45fe697.wav,mở thiết bị
+648c80e3f73a578a627d3a5e,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c80e3f73a578a627d3a5e.wav,tăng độ sáng của thiết bị
+648870cc629cf7fdc0238bc7,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648870cc629cf7fdc0238bc7.wav,đóng thiết bị
+648c8c4bf73a5701667d6388,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c8c4bf73a5701667d6388.wav,tắt thiết bị
+648c7634f73a5729727d1658,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c7634f73a5729727d1658.wav,tắt thiết bị
+6485ef478503515935e5076a,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485ef478503515935e5076a.wav,đóng thiết bị
+648b2061608325b892e92bf1,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b2061608325b892e92bf1.wav,kiểm tra tình trạng thiết bị
+648b28ab6083256356e94338,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b28ab6083256356e94338.wav,mở thiết bị
+6489c17500075042299229df,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6489c17500075042299229df.wav,đóng thiết bị
+648c8d0ff73a577e357d65bd,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c8d0ff73a577e357d65bd.wav,bật thiết bị
+648f38fabd5f01765cbc089f,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f38fabd5f01765cbc089f.wav,tắt thiết bị
+6487213e1ae676a90eb65210,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6487213e1ae676a90eb65210.wav,mở thiết bị
+648c8ff8f73a577b017d6d7f,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c8ff8f73a577b017d6d7f.wav,bật thiết bị
+648b12ec6083250cc9e912b4,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b12ec6083250cc9e912b4.wav,tăng độ sáng của thiết bị
+64848d4519e04027d55e3fcb,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64848d4519e04027d55e3fcb.wav,mở thiết bị
+6484691719e0401d445e15cb,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6484691719e0401d445e15cb.wav,kiểm tra tình trạng thiết bị
+6485da6785035117a1e4e369,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485da6785035117a1e4e369.wav,giảm độ sáng của thiết bị
+648737d11ae67678f5b67b1b,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648737d11ae67678f5b67b1b.wav,mở thiết bị
+648c858cf73a57672a7d4acb,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c858cf73a57672a7d4acb.wav,đóng thiết bị
+648c0e5ef7c92c88524e8e8e,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c0e5ef7c92c88524e8e8e.wav,giảm độ sáng của thiết bị
+648499a319e040fd965e5429,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648499a319e040fd965e5429.wav,kiểm tra tình trạng thiết bị
+64886f8e629cf77990238ac2,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64886f8e629cf77990238ac2.wav,tắt thiết bị
+648c81e2f73a579e3c7d3ddd,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c81e2f73a579e3c7d3ddd.wav,tắt thiết bị
+6484a2ee19e0403e275e5bca,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6484a2ee19e0403e275e5bca.wav,đóng thiết bị
+64834c22d9f5691a9642081a,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64834c22d9f5691a9642081a.wav,kiểm tra tình trạng thiết bị
+648f22a4bd5f016ed9bbea0f,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f22a4bd5f016ed9bbea0f.wav,bật thiết bị
+6487115d1ae6762718b63db9,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6487115d1ae6762718b63db9.wav,tắt thiết bị
+648f1ef8bd5f019c83bbe381,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f1ef8bd5f019c83bbe381.wav,tắt thiết bị
+648b30776083258fdce956a4,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b30776083258fdce956a4.wav,đóng thiết bị
+648730b61ae676d401b66ea5,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648730b61ae676d401b66ea5.wav,đóng thiết bị
+64872bc61ae67622b4b6651f,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64872bc61ae67622b4b6651f.wav,tăng độ sáng của thiết bị
+64848a0319e04021065e3a80,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64848a0319e04021065e3a80.wav,giảm mức độ của thiết bị
+648ae7e3b7c4443262395206,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648ae7e3b7c4443262395206.wav,giảm độ sáng của thiết bị
+648c874af73a571fbe7d51d3,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c874af73a571fbe7d51d3.wav,bật thiết bị
+648de3d24c84024d5f3e439e,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648de3d24c84024d5f3e439e.wav,tăng mức độ của thiết bị
+6484946f19e0406fdf5e4c0e,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6484946f19e0406fdf5e4c0e.wav,kiểm tra tình trạng thiết bị
+64a19a74883d150de7f24379,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64a19a74883d150de7f24379.wav,kích hoạt cảnh
+64848f4119e040050c5e433f,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64848f4119e040050c5e433f.wav,bật thiết bị
+64872f401ae676f725b66b75,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64872f401ae676f725b66b75.wav,bật thiết bị
+648f101fbd5f017711bbc716,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f101fbd5f017711bbc716.wav,mở thiết bị
+648db6cf4c84020ea83df024,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648db6cf4c84020ea83df024.wav,bật thiết bị
+648c7d62f73a579fdf7d2d38,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c7d62f73a579fdf7d2d38.wav,giảm độ sáng của thiết bị
+648db11b4c8402083c3de9ab,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648db11b4c8402083c3de9ab.wav,bật thiết bị
+64889798629cf7c5f023b393,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64889798629cf7c5f023b393.wav,giảm độ sáng của thiết bị
+64b2af1346b935e407b6f700,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64b2af1346b935e407b6f700.wav,hủy hoạt cảnh
+64870c8b1ae676ee91b63929,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64870c8b1ae676ee91b63929.wav,tắt thiết bị
+648f0fa4bd5f01c35bbbc62f,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f0fa4bd5f01c35bbbc62f.wav,đóng thiết bị
+648716731ae67656f1b641e7,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648716731ae67656f1b641e7.wav,giảm độ sáng của thiết bị
+6489bdaf0007507acd9224ba,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6489bdaf0007507acd9224ba.wav,bật thiết bị
+64873bc91ae67620b5b68122,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64873bc91ae67620b5b68122.wav,giảm mức độ của thiết bị
+648c8dd4f73a5795a67d67db,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c8dd4f73a5795a67d67db.wav,mở thiết bị
+648c8bb8f73a5727ae7d61f7,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c8bb8f73a5727ae7d61f7.wav,tắt thiết bị
+64847df719e0407f955e29f8,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64847df719e0407f955e29f8.wav,bật thiết bị
+6484885319e0405eb45e3779,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6484885319e0405eb45e3779.wav,bật thiết bị
+64a82320a35d0a20d2e9bf8f,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64a82320a35d0a20d2e9bf8f.wav,hủy hoạt cảnh
+64886c06629cf764ac2387c4,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64886c06629cf764ac2387c4.wav,kiểm tra tình trạng thiết bị
+648712c81ae6761ee1b63f06,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648712c81ae6761ee1b63f06.wav,bật thiết bị
+64b3fe23d6657a52fd8cdff3,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64b3fe23d6657a52fd8cdff3.wav,kích hoạt cảnh
+648ddeb94c8402a6d03e3753,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648ddeb94c8402a6d03e3753.wav,tăng độ sáng của thiết bị
+648c9109f73a572f7e7d7004,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c9109f73a572f7e7d7004.wav,kiểm tra tình trạng thiết bị
+648b430c608325e74ce98214,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b430c608325e74ce98214.wav,bật thiết bị
+648dc8904c8402407e3e102a,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648dc8904c8402407e3e102a.wav,mở thiết bị
+648c77eef73a57f7947d1b86,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c77eef73a57f7947d1b86.wav,tăng độ sáng của thiết bị
+648c9681f73a57f0877d782d,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c9681f73a57f0877d782d.wav,bật thiết bị
+648f0842bd5f01b52abbbb4a,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f0842bd5f01b52abbbb4a.wav,kiểm tra tình trạng thiết bị
+64b2b67546b9359b27b6f8ef,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64b2b67546b9359b27b6f8ef.wav,hủy hoạt cảnh
+648dd0104c840275133e1a7c,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648dd0104c840275133e1a7c.wav,mở thiết bị
+6484717619e04028d25e1c95,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6484717619e04028d25e1c95.wav,mở thiết bị
+64887014629cf72f95238b07,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64887014629cf72f95238b07.wav,bật thiết bị
+648b1689608325e76de91812,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b1689608325e76de91812.wav,tắt thiết bị
+648c8118f73a57688a7d3afd,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c8118f73a57688a7d3afd.wav,đóng thiết bị
+64872c7a1ae67631fcb66678,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64872c7a1ae67631fcb66678.wav,bật thiết bị
+64b40746d6657a01e28ce3e1,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64b40746d6657a01e28ce3e1.wav,hủy hoạt cảnh
+648dba5c4c840254c83df65a,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648dba5c4c840254c83df65a.wav,đóng thiết bị
+648c90f6f73a57bfc37d6fdb,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c90f6f73a57bfc37d6fdb.wav,đóng thiết bị
+6485cfdc850351089fe4d35d,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485cfdc850351089fe4d35d.wav,tăng độ sáng của thiết bị
+6489c85e0007506cdd923772,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6489c85e0007506cdd923772.wav,giảm nhiệt độ của thiết bị
+648349d7d9f569a79342063b,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648349d7d9f569a79342063b.wav,đóng thiết bị
+64918391c5f526a446fdc08e,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64918391c5f526a446fdc08e.wav,tắt thiết bị
+648739091ae6767e1cb67d84,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648739091ae6767e1cb67d84.wav,tắt thiết bị
+648727351ae67617dfb65cee,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648727351ae67617dfb65cee.wav,tắt thiết bị
+648d3361ca834b4c17159a80,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648d3361ca834b4c17159a80.wav,tăng mức độ của thiết bị
+6483581ad9f56966a642102a,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6483581ad9f56966a642102a.wav,mở thiết bị
+648de0934c840260a73e3c0b,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648de0934c840260a73e3c0b.wav,bật thiết bị
+648c8108f73a5757867d3ac8,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c8108f73a5757867d3ac8.wav,mở thiết bị
+64a83346a35d0a1288e9c3f5,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64a83346a35d0a1288e9c3f5.wav,kích hoạt cảnh
+64871f4d1ae6764672b64ee5,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64871f4d1ae6764672b64ee5.wav,tắt thiết bị
+648b1aac6083253997e91f06,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b1aac6083253997e91f06.wav,tăng mức độ của thiết bị
+6485c21a8503510658e4c227,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485c21a8503510658e4c227.wav,giảm nhiệt độ của thiết bị
+649534ae5258cc7f1b9ed144,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/649534ae5258cc7f1b9ed144.wav,bật thiết bị
+64887b7d629cf7cbb4239831,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64887b7d629cf7cbb4239831.wav,kiểm tra tình trạng thiết bị
+648f1886bd5f01e55dbbd76d,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f1886bd5f01e55dbbd76d.wav,bật thiết bị
+648d342cca834bdd63159b0f,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648d342cca834bdd63159b0f.wav,đóng thiết bị
+648dc7dd4c84024b033e0f1e,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648dc7dd4c84024b033e0f1e.wav,giảm độ sáng của thiết bị
+648f1345bd5f01705abbccb1,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f1345bd5f01705abbccb1.wav,giảm độ sáng của thiết bị
+648b3ae26083251c83e96fe2,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b3ae26083251c83e96fe2.wav,kiểm tra tình trạng thiết bị
+648c9497f73a573ef37d761f,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c9497f73a573ef37d761f.wav,kiểm tra tình trạng thiết bị
+648c7d72f73a57e0fa7d2d97,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c7d72f73a57e0fa7d2d97.wav,đóng thiết bị
+648c92b9f73a5765217d72fa,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c92b9f73a5765217d72fa.wav,bật thiết bị
+6489c57c0007508a56923114,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6489c57c0007508a56923114.wav,kiểm tra tình trạng thiết bị
+64848a2119e04033555e3abc,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64848a2119e04033555e3abc.wav,kiểm tra tình trạng thiết bị
+6489cb12000750601a923e12,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6489cb12000750601a923e12.wav,giảm độ sáng của thiết bị
+648dd42a4c8402f63a3e21aa,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648dd42a4c8402f63a3e21aa.wav,tăng độ sáng của thiết bị
+64b3f5cad6657aeef48cdcaf,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64b3f5cad6657aeef48cdcaf.wav,kích hoạt cảnh
+648dd4714c84026fe83e221d,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648dd4714c84026fe83e221d.wav,giảm độ sáng của thiết bị
+6485dab98503510d3ce4e3db,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485dab98503510d3ce4e3db.wav,đóng thiết bị
+648dbab84c840210573df721,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648dbab84c840210573df721.wav,mở thiết bị
+648c80ddf73a5712fd7d3a3b,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c80ddf73a5712fd7d3a3b.wav,giảm độ sáng của thiết bị
+648495b819e040341d5e4e44,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648495b819e040341d5e4e44.wav,kiểm tra tình trạng thiết bị
+648b1a18608325dddde91d79,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b1a18608325dddde91d79.wav,giảm độ sáng của thiết bị
+648469cc19e04008455e162c,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648469cc19e04008455e162c.wav,kiểm tra tình trạng thiết bị
+648db8514c84027f0b3df2dd,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648db8514c84027f0b3df2dd.wav,tắt thiết bị
+64889c68629cf73c7923b6f9,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64889c68629cf73c7923b6f9.wav,tăng âm lượng của thiết bị
+648890ec629cf7786c23aee8,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648890ec629cf7786c23aee8.wav,đóng thiết bị
+6485eac1850351504be4fe44,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485eac1850351504be4fe44.wav,đóng thiết bị
+648dbf8f4c84024ccd3dffc6,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648dbf8f4c84024ccd3dffc6.wav,bật thiết bị
+6484805919e04097b65e2c70,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6484805919e04097b65e2c70.wav,mở thiết bị
+64889a68629cf7415b23b583,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64889a68629cf7415b23b583.wav,đóng thiết bị
+648b243560832548d2e935df,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b243560832548d2e935df.wav,kiểm tra tình trạng thiết bị
+648b3f5f608325ef6ee97ab5,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b3f5f608325ef6ee97ab5.wav,tắt thiết bị
+6485e6098503518921e4f5be,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485e6098503518921e4f5be.wav,đóng thiết bị
+648b2cdc608325d22ae94dbd,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b2cdc608325d22ae94dbd.wav,bật thiết bị
+64a5030fbec99230ac4b86b6,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64a5030fbec99230ac4b86b6.wav,hủy hoạt cảnh
+648dc44b4c840278ae3e0815,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648dc44b4c840278ae3e0815.wav,tăng độ sáng của thiết bị
+648ddd6c4c84021d1f3e34b5,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648ddd6c4c84021d1f3e34b5.wav,tăng nhiệt độ của thiết bị
+648b203c608325231be92b84,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b203c608325231be92b84.wav,đóng thiết bị
+6485e875850351f8e3e4fa29,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485e875850351f8e3e4fa29.wav,tắt thiết bị
+648f1b9fbd5f01da5ebbdd8d,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f1b9fbd5f01da5ebbdd8d.wav,kiểm tra tình trạng thiết bị
+648b2c08608325bbe8e94bde,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b2c08608325bbe8e94bde.wav,mở thiết bị
+648de2484c8402f7c13e3fd3,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648de2484c8402f7c13e3fd3.wav,mở thiết bị
+648ddf2a4c840264d03e3886,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648ddf2a4c840264d03e3886.wav,kiểm tra tình trạng thiết bị
+6485e7bc8503513295e4f8d2,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485e7bc8503513295e4f8d2.wav,tăng độ sáng của thiết bị
+648ddc8e4c8402f3ad3e3304,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648ddc8e4c8402f3ad3e3304.wav,kiểm tra tình trạng thiết bị
+648dd3c04c840238523e20d5,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648dd3c04c840238523e20d5.wav,đóng thiết bị
+648b335260832507bee95d97,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b335260832507bee95d97.wav,tắt thiết bị
+648c7e60f73a5706847d30b0,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c7e60f73a5706847d30b0.wav,bật thiết bị
+648b21cc6083258ce9e92f81,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b21cc6083258ce9e92f81.wav,tắt thiết bị
+648b173e6083256e34e91945,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b173e6083256e34e91945.wav,mở thiết bị
+648c7c63f73a57d12c7d2959,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c7c63f73a57d12c7d2959.wav,tắt thiết bị
+648dbed44c8402510a3dfe80,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648dbed44c8402510a3dfe80.wav,kiểm tra tình trạng thiết bị
+648c954ff73a571e8e7d7700,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c954ff73a571e8e7d7700.wav,tăng mức độ của thiết bị
+6487242a1ae6762ba5b6572c,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6487242a1ae6762ba5b6572c.wav,kiểm tra tình trạng thiết bị
+648f23d1bd5f013cfebbec11,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f23d1bd5f013cfebbec11.wav,tăng nhiệt độ của thiết bị
+6485c46085035174eae4c493,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485c46085035174eae4c493.wav,bật thiết bị
+648c8d43f73a57718c7d665a,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c8d43f73a57718c7d665a.wav,tăng độ sáng của thiết bị
+64873adf1ae6767d51b68032,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64873adf1ae6767d51b68032.wav,kiểm tra tình trạng thiết bị
+648304a2271e6f3fff3a308c,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648304a2271e6f3fff3a308c.wav,tắt thiết bị
+648dbeab4c8402c1803dfe06,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648dbeab4c8402c1803dfe06.wav,kiểm tra tình trạng thiết bị
+648db0df4c8402256b3de97e,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648db0df4c8402256b3de97e.wav,mở thiết bị
+6485c915850351dcc2e4ca45,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485c915850351dcc2e4ca45.wav,tắt thiết bị
+6485cd438503513ce6e4cfc8,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485cd438503513ce6e4cfc8.wav,kiểm tra tình trạng thiết bị
+64b2bba346b9355acab6fa8a,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64b2bba346b9355acab6fa8a.wav,hủy hoạt cảnh
+648717051ae6764acab642b0,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648717051ae6764acab642b0.wav,bật thiết bị
+6485e8a0850351f8cde4fa67,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485e8a0850351f8cde4fa67.wav,giảm độ sáng của thiết bị
+648488c519e04032195e3857,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648488c519e04032195e3857.wav,kiểm tra tình trạng thiết bị
+648c77f7f73a57ec9c7d1bca,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c77f7f73a57ec9c7d1bca.wav,tăng độ sáng của thiết bị
+648f3415bd5f01013abc0150,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f3415bd5f01013abc0150.wav,giảm độ sáng của thiết bị
+648736c31ae6763e44b6799d,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648736c31ae6763e44b6799d.wav,mở thiết bị
+648f3780bd5f0103ecbc06d6,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f3780bd5f0103ecbc06d6.wav,đóng thiết bị
+648b159d6083257399e91663,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b159d6083257399e91663.wav,đóng thiết bị
+648738051ae676ff99b67bbb,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648738051ae676ff99b67bbb.wav,bật thiết bị
+6485e8a48503512f99e4fa82,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485e8a48503512f99e4fa82.wav,giảm độ sáng của thiết bị
+6485c7a5850351f3d2e4c84d,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485c7a5850351f3d2e4c84d.wav,tăng độ sáng của thiết bị
+648db2d24c840248483deaba,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648db2d24c840248483deaba.wav,kiểm tra tình trạng thiết bị
+648488b619e04025295e3845,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648488b619e04025295e3845.wav,đóng thiết bị
+6492bba6da75fa2325484f73,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6492bba6da75fa2325484f73.wav,bật thiết bị
+648ddf494c840276783e38be,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648ddf494c840276783e38be.wav,kiểm tra tình trạng thiết bị
+648dc25c4c840273f73e04cd,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648dc25c4c840273f73e04cd.wav,tăng độ sáng của thiết bị
+648b415c6083250253e97eda,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b415c6083250253e97eda.wav,kiểm tra tình trạng thiết bị
+64b41595d6657a357d8ce829,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64b41595d6657a357d8ce829.wav,hủy hoạt cảnh
+648d8b36ca834b7feb15a11a,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648d8b36ca834b7feb15a11a.wav,tăng độ sáng của thiết bị
+648c8d23f73a57e4ea7d660a,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c8d23f73a57e4ea7d660a.wav,mở thiết bị
+648c7dc4f73a5746f77d2e51,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c7dc4f73a5746f77d2e51.wav,kiểm tra tình trạng thiết bị
+648b2be26083250a1de94b8b,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b2be26083250a1de94b8b.wav,mở thiết bị
+648c7c67f73a5753627d297a,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c7c67f73a5753627d297a.wav,mở thiết bị
+648b2d82608325625ce94fb0,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b2d82608325625ce94fb0.wav,giảm độ sáng của thiết bị
+648dc6914c84025a7f3e0c7a,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648dc6914c84025a7f3e0c7a.wav,giảm độ sáng của thiết bị
+64848e8819e04003175e41f2,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64848e8819e04003175e41f2.wav,đóng thiết bị
+648c78cff73a5754c97d1df4,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c78cff73a5754c97d1df4.wav,tăng độ sáng của thiết bị
+648743f31ae676dec0b68c51,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648743f31ae676dec0b68c51.wav,đóng thiết bị
+648dc3864c84021ac83e06c8,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648dc3864c84021ac83e06c8.wav,mở thiết bị
+648ad812b7c444a632394d3c,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648ad812b7c444a632394d3c.wav,mở thiết bị
+64b2b52246b935be3db6f87a,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64b2b52246b935be3db6f87a.wav,kích hoạt cảnh
+64872efb1ae67605ecb66ade,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64872efb1ae67605ecb66ade.wav,giảm độ sáng của thiết bị
+648b30a46083258c22e956e7,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b30a46083258c22e956e7.wav,tăng độ sáng của thiết bị
+648b1c68608325c2e6e922b0,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b1c68608325c2e6e922b0.wav,bật thiết bị
+64872e281ae67693bcb66989,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64872e281ae67693bcb66989.wav,đóng thiết bị
+6485e45c8503514acce4f2d3,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485e45c8503514acce4f2d3.wav,giảm độ sáng của thiết bị
+6485eb4485035186b6e4fff0,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485eb4485035186b6e4fff0.wav,giảm độ sáng của thiết bị
+648c7d6cf73a5743d97d2d5f,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648c7d6cf73a5743d97d2d5f.wav,bật thiết bị
+64848b5e19e04046135e3cbe,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64848b5e19e04046135e3cbe.wav,tăng mức độ của thiết bị
+64872d511ae676477db667c7,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64872d511ae676477db667c7.wav,giảm mức độ của thiết bị
+64848c4e19e04077ba5e3e52,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64848c4e19e04077ba5e3e52.wav,bật thiết bị
+64b2b7dc46b9359043b6f944,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64b2b7dc46b9359043b6f944.wav,kích hoạt cảnh
+648727a11ae6764601b65d69,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648727a11ae6764601b65d69.wav,mở thiết bị
+6485ec7a8503514215e50208,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/6485ec7a8503514215e50208.wav,giảm độ sáng của thiết bị
+648de7bf4c84027af73e4c92,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648de7bf4c84027af73e4c92.wav,mở thiết bị
+648b3a4a60832549f0e96e9c,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b3a4a60832549f0e96e9c.wav,giảm nhiệt độ của thiết bị
+64887ea3629cf7dc24239cda,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/64887ea3629cf7dc24239cda.wav,đóng thiết bị
+648dd03b4c840238533e1a9b,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648dd03b4c840238533e1a9b.wav,tăng độ sáng của thiết bị
+648b1f646083258390e92996,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648b1f646083258390e92996.wav,tắt thiết bị
+648f1a80bd5f013f28bbdb7b,/data1.local/vinhpt/phh/speechbrain/SLU_data/train_data/Train/648f1a80bd5f013f28bbdb7b.wav,đóng thiết bị
